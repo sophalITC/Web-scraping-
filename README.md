@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository serves as a collection of web scraping projects completed by students for their term projects. Each project is focused on gathering data from the web for various purposes, primarily for data analysis, prediction, and regression. The projects cover a wide range of topics from book data to real estate and consumer electronics.
+This repository serves as a collection of web scraping projects completed by my students for their term projects. Each project is focused on gathering data from the web for various purposes, primarily for data analysis, prediction, and regression. The projects cover a wide range of topics from book data to real estate and consumer electronics.
 
  
 ## Projects List

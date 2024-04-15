@@ -1,0 +1,781 @@
+,Price,Location,Bedroom,Bathroom,Floor_area,Time
+0,"$160,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 90m²,2 weeks ago
+1,"$200,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 3, 110m²,2 weeks ago
+2,"$115,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 85m²,2 weeks ago
+3,"$185,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 2, 120m²,2 weeks ago
+4,"$80,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 1, 1, 51m²,2 weeks ago
+5,"$135,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 95m²,2 weeks ago
+6,"$85,000"," Tonle Bassac, Chamkarmon, Phnom Penh", 1, 1, 50m²,2 weeks ago
+7,"$225,000"," Veal Vong, 7 Makara, Phnom Penh", 2, 2, 103m²,2 weeks ago
+8,"$98,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 1, 3000m²,2 weeks ago
+9,"$270,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2,N/A,2 weeks ago
+10,"$1,318,438","Dabest Properties, Tonle Bassac, Chamkarmon, Phnom Penh", 4, 3, 323m²,2 weeks ago
+11,"$148,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2, 64m²,2 weeks ago
+12,"$170,000","Chamkarmon, Phnom Penh", 2, 2, 48m²,2 weeks ago
+13,"$330,000"," BKK 1, Chamkarmon, Phnom Penh",N/A,N/A, 68m²,2 weeks ago
+14,"$170,000"," BKK 1, Chamkarmon, Phnom Penh", 1, 1,N/A,2 weeks ago
+15,"$99,999"," Veal Vong, 7 Makara, Phnom Penh", 1, 1, 53m²,2 weeks ago
+16,"$132,110","Properties Dabest, Nirouth, Chbar Ampov, Phnom Penh", 2, 1, 74m²,2 weeks ago
+17,"$114,000","Dabest Properties, Nirouth, Chbar Ampov, Phnom Penh", 1, 1, 65m²,2 weeks ago
+18,"$40,000"," Boeung Kak 1, Toul Kork, Phnom Penh",N/A,N/A,N/A,2 weeks ago
+19,"$160,848"," BKK 1, Chamkarmon, Phnom Penh", 2, 1,N/A,2 weeks ago
+20,"$160,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 90m²,2 weeks ago
+21,"$200,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 3, 110m²,2 weeks ago
+22,"$115,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 85m²,2 weeks ago
+23,"$185,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 2, 120m²,2 weeks ago
+24,"$80,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 1, 1, 51m²,2 weeks ago
+25,"$135,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 95m²,2 weeks ago
+26,"$85,000"," Tonle Bassac, Chamkarmon, Phnom Penh", 1, 1, 50m²,2 weeks ago
+27,"$225,000"," Veal Vong, 7 Makara, Phnom Penh", 2, 2, 103m²,2 weeks ago
+28,"$98,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 1, 3000m²,2 weeks ago
+29,"$270,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2,N/A,2 weeks ago
+30,"$1,318,438","Dabest Properties, Tonle Bassac, Chamkarmon, Phnom Penh", 4, 3, 323m²,2 weeks ago
+31,"$148,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2, 64m²,2 weeks ago
+32,"$170,000","Chamkarmon, Phnom Penh", 2, 2, 48m²,2 weeks ago
+33,"$330,000"," BKK 1, Chamkarmon, Phnom Penh",N/A,N/A, 68m²,2 weeks ago
+34,"$170,000"," BKK 1, Chamkarmon, Phnom Penh", 1, 1,N/A,2 weeks ago
+35,"$99,999"," Veal Vong, 7 Makara, Phnom Penh", 1, 1, 53m²,2 weeks ago
+36,"$132,110","Properties Dabest, Nirouth, Chbar Ampov, Phnom Penh", 2, 1, 74m²,2 weeks ago
+37,"$114,000","Dabest Properties, Nirouth, Chbar Ampov, Phnom Penh", 1, 1, 65m²,2 weeks ago
+38,"$40,000"," Boeung Kak 1, Toul Kork, Phnom Penh",N/A,N/A,N/A,2 weeks ago
+39,"$160,848"," BKK 1, Chamkarmon, Phnom Penh", 2, 1,N/A,2 weeks ago
+40,"$160,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 90m²,2 weeks ago
+41,"$200,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 3, 110m²,2 weeks ago
+42,"$115,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 85m²,2 weeks ago
+43,"$185,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 2, 120m²,2 weeks ago
+44,"$80,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 1, 1, 51m²,2 weeks ago
+45,"$135,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 95m²,2 weeks ago
+46,"$85,000"," Tonle Bassac, Chamkarmon, Phnom Penh", 1, 1, 50m²,2 weeks ago
+47,"$225,000"," Veal Vong, 7 Makara, Phnom Penh", 2, 2, 103m²,2 weeks ago
+48,"$98,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 1, 3000m²,2 weeks ago
+49,"$270,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2,N/A,2 weeks ago
+50,"$1,318,438","Dabest Properties, Tonle Bassac, Chamkarmon, Phnom Penh", 4, 3, 323m²,2 weeks ago
+51,"$148,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2, 64m²,2 weeks ago
+52,"$170,000","Chamkarmon, Phnom Penh", 2, 2, 48m²,2 weeks ago
+53,"$330,000"," BKK 1, Chamkarmon, Phnom Penh",N/A,N/A, 68m²,2 weeks ago
+54,"$170,000"," BKK 1, Chamkarmon, Phnom Penh", 1, 1,N/A,2 weeks ago
+55,"$99,999"," Veal Vong, 7 Makara, Phnom Penh", 1, 1, 53m²,2 weeks ago
+56,"$132,110","Properties Dabest, Nirouth, Chbar Ampov, Phnom Penh", 2, 1, 74m²,2 weeks ago
+57,"$114,000","Dabest Properties, Nirouth, Chbar Ampov, Phnom Penh", 1, 1, 65m²,2 weeks ago
+58,"$40,000"," Boeung Kak 1, Toul Kork, Phnom Penh",N/A,N/A,N/A,2 weeks ago
+59,"$160,848"," BKK 1, Chamkarmon, Phnom Penh", 2, 1,N/A,2 weeks ago
+60,"$160,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 90m²,2 weeks ago
+61,"$200,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 3, 110m²,2 weeks ago
+62,"$115,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 85m²,2 weeks ago
+63,"$185,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 2, 120m²,2 weeks ago
+64,"$80,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 1, 1, 51m²,2 weeks ago
+65,"$135,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 95m²,2 weeks ago
+66,"$85,000"," Tonle Bassac, Chamkarmon, Phnom Penh", 1, 1, 50m²,2 weeks ago
+67,"$225,000"," Veal Vong, 7 Makara, Phnom Penh", 2, 2, 103m²,2 weeks ago
+68,"$98,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 1, 3000m²,2 weeks ago
+69,"$270,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2,N/A,2 weeks ago
+70,"$1,318,438","Dabest Properties, Tonle Bassac, Chamkarmon, Phnom Penh", 4, 3, 323m²,2 weeks ago
+71,"$148,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2, 64m²,2 weeks ago
+72,"$170,000","Chamkarmon, Phnom Penh", 2, 2, 48m²,2 weeks ago
+73,"$330,000"," BKK 1, Chamkarmon, Phnom Penh",N/A,N/A, 68m²,2 weeks ago
+74,"$170,000"," BKK 1, Chamkarmon, Phnom Penh", 1, 1,N/A,2 weeks ago
+75,"$99,999"," Veal Vong, 7 Makara, Phnom Penh", 1, 1, 53m²,2 weeks ago
+76,"$132,110","Properties Dabest, Nirouth, Chbar Ampov, Phnom Penh", 2, 1, 74m²,2 weeks ago
+77,"$114,000","Dabest Properties, Nirouth, Chbar Ampov, Phnom Penh", 1, 1, 65m²,2 weeks ago
+78,"$40,000"," Boeung Kak 1, Toul Kork, Phnom Penh",N/A,N/A,N/A,2 weeks ago
+79,"$160,848"," BKK 1, Chamkarmon, Phnom Penh", 2, 1,N/A,2 weeks ago
+80,"$160,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 90m²,2 weeks ago
+81,"$200,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 3, 110m²,2 weeks ago
+82,"$115,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 85m²,2 weeks ago
+83,"$185,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 2, 120m²,2 weeks ago
+84,"$80,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 1, 1, 51m²,2 weeks ago
+85,"$135,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 95m²,2 weeks ago
+86,"$85,000"," Tonle Bassac, Chamkarmon, Phnom Penh", 1, 1, 50m²,2 weeks ago
+87,"$225,000"," Veal Vong, 7 Makara, Phnom Penh", 2, 2, 103m²,2 weeks ago
+88,"$98,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 1, 3000m²,2 weeks ago
+89,"$270,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2,N/A,2 weeks ago
+90,"$1,318,438","Dabest Properties, Tonle Bassac, Chamkarmon, Phnom Penh", 4, 3, 323m²,2 weeks ago
+91,"$148,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2, 64m²,2 weeks ago
+92,"$170,000","Chamkarmon, Phnom Penh", 2, 2, 48m²,2 weeks ago
+93,"$330,000"," BKK 1, Chamkarmon, Phnom Penh",N/A,N/A, 68m²,2 weeks ago
+94,"$170,000"," BKK 1, Chamkarmon, Phnom Penh", 1, 1,N/A,2 weeks ago
+95,"$99,999"," Veal Vong, 7 Makara, Phnom Penh", 1, 1, 53m²,2 weeks ago
+96,"$132,110","Properties Dabest, Nirouth, Chbar Ampov, Phnom Penh", 2, 1, 74m²,2 weeks ago
+97,"$114,000","Dabest Properties, Nirouth, Chbar Ampov, Phnom Penh", 1, 1, 65m²,2 weeks ago
+98,"$40,000"," Boeung Kak 1, Toul Kork, Phnom Penh",N/A,N/A,N/A,2 weeks ago
+99,"$160,848"," BKK 1, Chamkarmon, Phnom Penh", 2, 1,N/A,2 weeks ago
+100,"$160,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 90m²,2 weeks ago
+101,"$200,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 3, 110m²,2 weeks ago
+102,"$115,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 85m²,2 weeks ago
+103,"$185,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 2, 120m²,2 weeks ago
+104,"$80,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 1, 1, 51m²,2 weeks ago
+105,"$135,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 95m²,2 weeks ago
+106,"$85,000"," Tonle Bassac, Chamkarmon, Phnom Penh", 1, 1, 50m²,2 weeks ago
+107,"$225,000"," Veal Vong, 7 Makara, Phnom Penh", 2, 2, 103m²,2 weeks ago
+108,"$98,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 1, 3000m²,2 weeks ago
+109,"$270,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2,N/A,2 weeks ago
+110,"$1,318,438","Dabest Properties, Tonle Bassac, Chamkarmon, Phnom Penh", 4, 3, 323m²,2 weeks ago
+111,"$148,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2, 64m²,2 weeks ago
+112,"$170,000","Chamkarmon, Phnom Penh", 2, 2, 48m²,2 weeks ago
+113,"$330,000"," BKK 1, Chamkarmon, Phnom Penh",N/A,N/A, 68m²,2 weeks ago
+114,"$170,000"," BKK 1, Chamkarmon, Phnom Penh", 1, 1,N/A,2 weeks ago
+115,"$99,999"," Veal Vong, 7 Makara, Phnom Penh", 1, 1, 53m²,2 weeks ago
+116,"$132,110","Properties Dabest, Nirouth, Chbar Ampov, Phnom Penh", 2, 1, 74m²,2 weeks ago
+117,"$114,000","Dabest Properties, Nirouth, Chbar Ampov, Phnom Penh", 1, 1, 65m²,2 weeks ago
+118,"$40,000"," Boeung Kak 1, Toul Kork, Phnom Penh",N/A,N/A,N/A,2 weeks ago
+119,"$160,848"," BKK 1, Chamkarmon, Phnom Penh", 2, 1,N/A,2 weeks ago
+120,"$160,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 90m²,2 weeks ago
+121,"$200,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 3, 110m²,2 weeks ago
+122,"$115,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 85m²,2 weeks ago
+123,"$185,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 2, 120m²,2 weeks ago
+124,"$80,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 1, 1, 51m²,2 weeks ago
+125,"$135,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 95m²,2 weeks ago
+126,"$85,000"," Tonle Bassac, Chamkarmon, Phnom Penh", 1, 1, 50m²,2 weeks ago
+127,"$225,000"," Veal Vong, 7 Makara, Phnom Penh", 2, 2, 103m²,2 weeks ago
+128,"$98,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 1, 3000m²,2 weeks ago
+129,"$270,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2,N/A,2 weeks ago
+130,"$1,318,438","Dabest Properties, Tonle Bassac, Chamkarmon, Phnom Penh", 4, 3, 323m²,2 weeks ago
+131,"$148,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2, 64m²,2 weeks ago
+132,"$170,000","Chamkarmon, Phnom Penh", 2, 2, 48m²,2 weeks ago
+133,"$330,000"," BKK 1, Chamkarmon, Phnom Penh",N/A,N/A, 68m²,2 weeks ago
+134,"$170,000"," BKK 1, Chamkarmon, Phnom Penh", 1, 1,N/A,2 weeks ago
+135,"$99,999"," Veal Vong, 7 Makara, Phnom Penh", 1, 1, 53m²,2 weeks ago
+136,"$132,110","Properties Dabest, Nirouth, Chbar Ampov, Phnom Penh", 2, 1, 74m²,2 weeks ago
+137,"$114,000","Dabest Properties, Nirouth, Chbar Ampov, Phnom Penh", 1, 1, 65m²,2 weeks ago
+138,"$40,000"," Boeung Kak 1, Toul Kork, Phnom Penh",N/A,N/A,N/A,2 weeks ago
+139,"$160,848"," BKK 1, Chamkarmon, Phnom Penh", 2, 1,N/A,2 weeks ago
+140,"$160,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 90m²,2 weeks ago
+141,"$200,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 3, 110m²,2 weeks ago
+142,"$115,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 85m²,2 weeks ago
+143,"$185,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 2, 120m²,2 weeks ago
+144,"$80,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 1, 1, 51m²,2 weeks ago
+145,"$135,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 95m²,2 weeks ago
+146,"$85,000"," Tonle Bassac, Chamkarmon, Phnom Penh", 1, 1, 50m²,2 weeks ago
+147,"$225,000"," Veal Vong, 7 Makara, Phnom Penh", 2, 2, 103m²,2 weeks ago
+148,"$98,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 1, 3000m²,2 weeks ago
+149,"$270,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2,N/A,2 weeks ago
+150,"$1,318,438","Dabest Properties, Tonle Bassac, Chamkarmon, Phnom Penh", 4, 3, 323m²,2 weeks ago
+151,"$148,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2, 64m²,2 weeks ago
+152,"$170,000","Chamkarmon, Phnom Penh", 2, 2, 48m²,2 weeks ago
+153,"$330,000"," BKK 1, Chamkarmon, Phnom Penh",N/A,N/A, 68m²,2 weeks ago
+154,"$170,000"," BKK 1, Chamkarmon, Phnom Penh", 1, 1,N/A,2 weeks ago
+155,"$99,999"," Veal Vong, 7 Makara, Phnom Penh", 1, 1, 53m²,2 weeks ago
+156,"$132,110","Properties Dabest, Nirouth, Chbar Ampov, Phnom Penh", 2, 1, 74m²,2 weeks ago
+157,"$114,000","Dabest Properties, Nirouth, Chbar Ampov, Phnom Penh", 1, 1, 65m²,2 weeks ago
+158,"$40,000"," Boeung Kak 1, Toul Kork, Phnom Penh",N/A,N/A,N/A,2 weeks ago
+159,"$160,848"," BKK 1, Chamkarmon, Phnom Penh", 2, 1,N/A,2 weeks ago
+160,"$160,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 90m²,2 weeks ago
+161,"$200,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 3, 110m²,2 weeks ago
+162,"$115,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 85m²,2 weeks ago
+163,"$185,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 2, 120m²,2 weeks ago
+164,"$80,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 1, 1, 51m²,2 weeks ago
+165,"$135,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 95m²,2 weeks ago
+166,"$85,000"," Tonle Bassac, Chamkarmon, Phnom Penh", 1, 1, 50m²,2 weeks ago
+167,"$225,000"," Veal Vong, 7 Makara, Phnom Penh", 2, 2, 103m²,2 weeks ago
+168,"$98,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 1, 3000m²,2 weeks ago
+169,"$270,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2,N/A,2 weeks ago
+170,"$1,318,438","Dabest Properties, Tonle Bassac, Chamkarmon, Phnom Penh", 4, 3, 323m²,2 weeks ago
+171,"$148,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2, 64m²,2 weeks ago
+172,"$170,000","Chamkarmon, Phnom Penh", 2, 2, 48m²,2 weeks ago
+173,"$330,000"," BKK 1, Chamkarmon, Phnom Penh",N/A,N/A, 68m²,2 weeks ago
+174,"$170,000"," BKK 1, Chamkarmon, Phnom Penh", 1, 1,N/A,2 weeks ago
+175,"$99,999"," Veal Vong, 7 Makara, Phnom Penh", 1, 1, 53m²,2 weeks ago
+176,"$132,110","Properties Dabest, Nirouth, Chbar Ampov, Phnom Penh", 2, 1, 74m²,2 weeks ago
+177,"$114,000","Dabest Properties, Nirouth, Chbar Ampov, Phnom Penh", 1, 1, 65m²,2 weeks ago
+178,"$40,000"," Boeung Kak 1, Toul Kork, Phnom Penh",N/A,N/A,N/A,2 weeks ago
+179,"$160,848"," BKK 1, Chamkarmon, Phnom Penh", 2, 1,N/A,2 weeks ago
+180,"$160,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 90m²,2 weeks ago
+181,"$200,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 3, 110m²,2 weeks ago
+182,"$115,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 85m²,2 weeks ago
+183,"$185,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 2, 120m²,2 weeks ago
+184,"$80,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 1, 1, 51m²,2 weeks ago
+185,"$135,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 95m²,2 weeks ago
+186,"$85,000"," Tonle Bassac, Chamkarmon, Phnom Penh", 1, 1, 50m²,2 weeks ago
+187,"$225,000"," Veal Vong, 7 Makara, Phnom Penh", 2, 2, 103m²,2 weeks ago
+188,"$98,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 1, 3000m²,2 weeks ago
+189,"$270,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2,N/A,2 weeks ago
+190,"$1,318,438","Dabest Properties, Tonle Bassac, Chamkarmon, Phnom Penh", 4, 3, 323m²,2 weeks ago
+191,"$148,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2, 64m²,2 weeks ago
+192,"$170,000","Chamkarmon, Phnom Penh", 2, 2, 48m²,2 weeks ago
+193,"$330,000"," BKK 1, Chamkarmon, Phnom Penh",N/A,N/A, 68m²,2 weeks ago
+194,"$170,000"," BKK 1, Chamkarmon, Phnom Penh", 1, 1,N/A,2 weeks ago
+195,"$99,999"," Veal Vong, 7 Makara, Phnom Penh", 1, 1, 53m²,2 weeks ago
+196,"$132,110","Properties Dabest, Nirouth, Chbar Ampov, Phnom Penh", 2, 1, 74m²,2 weeks ago
+197,"$114,000","Dabest Properties, Nirouth, Chbar Ampov, Phnom Penh", 1, 1, 65m²,2 weeks ago
+198,"$40,000"," Boeung Kak 1, Toul Kork, Phnom Penh",N/A,N/A,N/A,2 weeks ago
+199,"$160,848"," BKK 1, Chamkarmon, Phnom Penh", 2, 1,N/A,2 weeks ago
+200,"$160,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 90m²,2 weeks ago
+201,"$200,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 3, 110m²,2 weeks ago
+202,"$115,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 85m²,2 weeks ago
+203,"$185,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 2, 120m²,2 weeks ago
+204,"$80,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 1, 1, 51m²,2 weeks ago
+205,"$135,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 95m²,2 weeks ago
+206,"$85,000"," Tonle Bassac, Chamkarmon, Phnom Penh", 1, 1, 50m²,2 weeks ago
+207,"$225,000"," Veal Vong, 7 Makara, Phnom Penh", 2, 2, 103m²,2 weeks ago
+208,"$98,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 1, 3000m²,2 weeks ago
+209,"$270,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2,N/A,2 weeks ago
+210,"$1,318,438","Dabest Properties, Tonle Bassac, Chamkarmon, Phnom Penh", 4, 3, 323m²,2 weeks ago
+211,"$148,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2, 64m²,2 weeks ago
+212,"$170,000","Chamkarmon, Phnom Penh", 2, 2, 48m²,2 weeks ago
+213,"$330,000"," BKK 1, Chamkarmon, Phnom Penh",N/A,N/A, 68m²,2 weeks ago
+214,"$170,000"," BKK 1, Chamkarmon, Phnom Penh", 1, 1,N/A,2 weeks ago
+215,"$99,999"," Veal Vong, 7 Makara, Phnom Penh", 1, 1, 53m²,2 weeks ago
+216,"$132,110","Properties Dabest, Nirouth, Chbar Ampov, Phnom Penh", 2, 1, 74m²,2 weeks ago
+217,"$114,000","Dabest Properties, Nirouth, Chbar Ampov, Phnom Penh", 1, 1, 65m²,2 weeks ago
+218,"$40,000"," Boeung Kak 1, Toul Kork, Phnom Penh",N/A,N/A,N/A,2 weeks ago
+219,"$160,848"," BKK 1, Chamkarmon, Phnom Penh", 2, 1,N/A,2 weeks ago
+220,"$160,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 90m²,2 weeks ago
+221,"$200,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 3, 110m²,2 weeks ago
+222,"$115,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 85m²,2 weeks ago
+223,"$185,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 2, 120m²,2 weeks ago
+224,"$80,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 1, 1, 51m²,2 weeks ago
+225,"$135,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 95m²,2 weeks ago
+226,"$85,000"," Tonle Bassac, Chamkarmon, Phnom Penh", 1, 1, 50m²,2 weeks ago
+227,"$225,000"," Veal Vong, 7 Makara, Phnom Penh", 2, 2, 103m²,2 weeks ago
+228,"$98,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 1, 3000m²,2 weeks ago
+229,"$270,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2,N/A,2 weeks ago
+230,"$1,318,438","Dabest Properties, Tonle Bassac, Chamkarmon, Phnom Penh", 4, 3, 323m²,2 weeks ago
+231,"$148,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2, 64m²,2 weeks ago
+232,"$170,000","Chamkarmon, Phnom Penh", 2, 2, 48m²,2 weeks ago
+233,"$330,000"," BKK 1, Chamkarmon, Phnom Penh",N/A,N/A, 68m²,2 weeks ago
+234,"$170,000"," BKK 1, Chamkarmon, Phnom Penh", 1, 1,N/A,2 weeks ago
+235,"$99,999"," Veal Vong, 7 Makara, Phnom Penh", 1, 1, 53m²,2 weeks ago
+236,"$132,110","Properties Dabest, Nirouth, Chbar Ampov, Phnom Penh", 2, 1, 74m²,2 weeks ago
+237,"$114,000","Dabest Properties, Nirouth, Chbar Ampov, Phnom Penh", 1, 1, 65m²,2 weeks ago
+238,"$40,000"," Boeung Kak 1, Toul Kork, Phnom Penh",N/A,N/A,N/A,2 weeks ago
+239,"$160,848"," BKK 1, Chamkarmon, Phnom Penh", 2, 1,N/A,2 weeks ago
+240,"$160,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 90m²,2 weeks ago
+241,"$200,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 3, 110m²,2 weeks ago
+242,"$115,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 85m²,2 weeks ago
+243,"$185,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 2, 120m²,2 weeks ago
+244,"$80,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 1, 1, 51m²,2 weeks ago
+245,"$135,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 95m²,2 weeks ago
+246,"$85,000"," Tonle Bassac, Chamkarmon, Phnom Penh", 1, 1, 50m²,2 weeks ago
+247,"$225,000"," Veal Vong, 7 Makara, Phnom Penh", 2, 2, 103m²,2 weeks ago
+248,"$98,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 1, 3000m²,2 weeks ago
+249,"$270,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2,N/A,2 weeks ago
+250,"$1,318,438","Dabest Properties, Tonle Bassac, Chamkarmon, Phnom Penh", 4, 3, 323m²,2 weeks ago
+251,"$148,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2, 64m²,2 weeks ago
+252,"$170,000","Chamkarmon, Phnom Penh", 2, 2, 48m²,2 weeks ago
+253,"$330,000"," BKK 1, Chamkarmon, Phnom Penh",N/A,N/A, 68m²,2 weeks ago
+254,"$170,000"," BKK 1, Chamkarmon, Phnom Penh", 1, 1,N/A,2 weeks ago
+255,"$99,999"," Veal Vong, 7 Makara, Phnom Penh", 1, 1, 53m²,2 weeks ago
+256,"$132,110","Properties Dabest, Nirouth, Chbar Ampov, Phnom Penh", 2, 1, 74m²,2 weeks ago
+257,"$114,000","Dabest Properties, Nirouth, Chbar Ampov, Phnom Penh", 1, 1, 65m²,2 weeks ago
+258,"$40,000"," Boeung Kak 1, Toul Kork, Phnom Penh",N/A,N/A,N/A,2 weeks ago
+259,"$160,848"," BKK 1, Chamkarmon, Phnom Penh", 2, 1,N/A,2 weeks ago
+260,"$160,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 90m²,2 weeks ago
+261,"$200,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 3, 110m²,2 weeks ago
+262,"$115,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 85m²,2 weeks ago
+263,"$185,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 2, 120m²,2 weeks ago
+264,"$80,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 1, 1, 51m²,2 weeks ago
+265,"$135,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 95m²,2 weeks ago
+266,"$85,000"," Tonle Bassac, Chamkarmon, Phnom Penh", 1, 1, 50m²,2 weeks ago
+267,"$225,000"," Veal Vong, 7 Makara, Phnom Penh", 2, 2, 103m²,2 weeks ago
+268,"$98,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 1, 3000m²,2 weeks ago
+269,"$270,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2,N/A,2 weeks ago
+270,"$1,318,438","Dabest Properties, Tonle Bassac, Chamkarmon, Phnom Penh", 4, 3, 323m²,2 weeks ago
+271,"$148,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2, 64m²,2 weeks ago
+272,"$170,000","Chamkarmon, Phnom Penh", 2, 2, 48m²,2 weeks ago
+273,"$330,000"," BKK 1, Chamkarmon, Phnom Penh",N/A,N/A, 68m²,2 weeks ago
+274,"$170,000"," BKK 1, Chamkarmon, Phnom Penh", 1, 1,N/A,2 weeks ago
+275,"$99,999"," Veal Vong, 7 Makara, Phnom Penh", 1, 1, 53m²,2 weeks ago
+276,"$132,110","Properties Dabest, Nirouth, Chbar Ampov, Phnom Penh", 2, 1, 74m²,2 weeks ago
+277,"$114,000","Dabest Properties, Nirouth, Chbar Ampov, Phnom Penh", 1, 1, 65m²,2 weeks ago
+278,"$40,000"," Boeung Kak 1, Toul Kork, Phnom Penh",N/A,N/A,N/A,2 weeks ago
+279,"$160,848"," BKK 1, Chamkarmon, Phnom Penh", 2, 1,N/A,2 weeks ago
+280,"$160,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 90m²,2 weeks ago
+281,"$200,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 3, 110m²,2 weeks ago
+282,"$115,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 85m²,2 weeks ago
+283,"$185,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 2, 120m²,2 weeks ago
+284,"$80,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 1, 1, 51m²,2 weeks ago
+285,"$135,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 95m²,2 weeks ago
+286,"$85,000"," Tonle Bassac, Chamkarmon, Phnom Penh", 1, 1, 50m²,2 weeks ago
+287,"$225,000"," Veal Vong, 7 Makara, Phnom Penh", 2, 2, 103m²,2 weeks ago
+288,"$98,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 1, 3000m²,2 weeks ago
+289,"$270,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2,N/A,2 weeks ago
+290,"$1,318,438","Dabest Properties, Tonle Bassac, Chamkarmon, Phnom Penh", 4, 3, 323m²,2 weeks ago
+291,"$148,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2, 64m²,2 weeks ago
+292,"$170,000","Chamkarmon, Phnom Penh", 2, 2, 48m²,2 weeks ago
+293,"$330,000"," BKK 1, Chamkarmon, Phnom Penh",N/A,N/A, 68m²,2 weeks ago
+294,"$170,000"," BKK 1, Chamkarmon, Phnom Penh", 1, 1,N/A,2 weeks ago
+295,"$99,999"," Veal Vong, 7 Makara, Phnom Penh", 1, 1, 53m²,2 weeks ago
+296,"$132,110","Properties Dabest, Nirouth, Chbar Ampov, Phnom Penh", 2, 1, 74m²,2 weeks ago
+297,"$114,000","Dabest Properties, Nirouth, Chbar Ampov, Phnom Penh", 1, 1, 65m²,2 weeks ago
+298,"$40,000"," Boeung Kak 1, Toul Kork, Phnom Penh",N/A,N/A,N/A,2 weeks ago
+299,"$160,848"," BKK 1, Chamkarmon, Phnom Penh", 2, 1,N/A,2 weeks ago
+300,"$160,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 90m²,2 weeks ago
+301,"$200,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 3, 110m²,2 weeks ago
+302,"$115,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 85m²,2 weeks ago
+303,"$185,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 2, 120m²,2 weeks ago
+304,"$80,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 1, 1, 51m²,2 weeks ago
+305,"$135,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 95m²,2 weeks ago
+306,"$85,000"," Tonle Bassac, Chamkarmon, Phnom Penh", 1, 1, 50m²,2 weeks ago
+307,"$225,000"," Veal Vong, 7 Makara, Phnom Penh", 2, 2, 103m²,2 weeks ago
+308,"$98,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 1, 3000m²,2 weeks ago
+309,"$270,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2,N/A,2 weeks ago
+310,"$1,318,438","Dabest Properties, Tonle Bassac, Chamkarmon, Phnom Penh", 4, 3, 323m²,2 weeks ago
+311,"$148,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2, 64m²,2 weeks ago
+312,"$170,000","Chamkarmon, Phnom Penh", 2, 2, 48m²,2 weeks ago
+313,"$330,000"," BKK 1, Chamkarmon, Phnom Penh",N/A,N/A, 68m²,2 weeks ago
+314,"$170,000"," BKK 1, Chamkarmon, Phnom Penh", 1, 1,N/A,2 weeks ago
+315,"$99,999"," Veal Vong, 7 Makara, Phnom Penh", 1, 1, 53m²,2 weeks ago
+316,"$132,110","Properties Dabest, Nirouth, Chbar Ampov, Phnom Penh", 2, 1, 74m²,2 weeks ago
+317,"$114,000","Dabest Properties, Nirouth, Chbar Ampov, Phnom Penh", 1, 1, 65m²,2 weeks ago
+318,"$40,000"," Boeung Kak 1, Toul Kork, Phnom Penh",N/A,N/A,N/A,2 weeks ago
+319,"$160,848"," BKK 1, Chamkarmon, Phnom Penh", 2, 1,N/A,2 weeks ago
+320,"$160,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 90m²,2 weeks ago
+321,"$200,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 3, 110m²,2 weeks ago
+322,"$115,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 85m²,2 weeks ago
+323,"$185,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 2, 120m²,2 weeks ago
+324,"$80,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 1, 1, 51m²,2 weeks ago
+325,"$135,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 95m²,2 weeks ago
+326,"$85,000"," Tonle Bassac, Chamkarmon, Phnom Penh", 1, 1, 50m²,2 weeks ago
+327,"$225,000"," Veal Vong, 7 Makara, Phnom Penh", 2, 2, 103m²,2 weeks ago
+328,"$98,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 1, 3000m²,2 weeks ago
+329,"$270,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2,N/A,2 weeks ago
+330,"$1,318,438","Dabest Properties, Tonle Bassac, Chamkarmon, Phnom Penh", 4, 3, 323m²,2 weeks ago
+331,"$148,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2, 64m²,2 weeks ago
+332,"$170,000","Chamkarmon, Phnom Penh", 2, 2, 48m²,2 weeks ago
+333,"$330,000"," BKK 1, Chamkarmon, Phnom Penh",N/A,N/A, 68m²,2 weeks ago
+334,"$170,000"," BKK 1, Chamkarmon, Phnom Penh", 1, 1,N/A,2 weeks ago
+335,"$99,999"," Veal Vong, 7 Makara, Phnom Penh", 1, 1, 53m²,2 weeks ago
+336,"$132,110","Properties Dabest, Nirouth, Chbar Ampov, Phnom Penh", 2, 1, 74m²,2 weeks ago
+337,"$114,000","Dabest Properties, Nirouth, Chbar Ampov, Phnom Penh", 1, 1, 65m²,2 weeks ago
+338,"$40,000"," Boeung Kak 1, Toul Kork, Phnom Penh",N/A,N/A,N/A,2 weeks ago
+339,"$160,848"," BKK 1, Chamkarmon, Phnom Penh", 2, 1,N/A,2 weeks ago
+340,"$160,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 90m²,2 weeks ago
+341,"$200,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 3, 110m²,2 weeks ago
+342,"$115,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 85m²,2 weeks ago
+343,"$185,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 2, 120m²,2 weeks ago
+344,"$80,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 1, 1, 51m²,2 weeks ago
+345,"$135,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 95m²,2 weeks ago
+346,"$85,000"," Tonle Bassac, Chamkarmon, Phnom Penh", 1, 1, 50m²,2 weeks ago
+347,"$225,000"," Veal Vong, 7 Makara, Phnom Penh", 2, 2, 103m²,2 weeks ago
+348,"$98,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 1, 3000m²,2 weeks ago
+349,"$270,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2,N/A,2 weeks ago
+350,"$1,318,438","Dabest Properties, Tonle Bassac, Chamkarmon, Phnom Penh", 4, 3, 323m²,2 weeks ago
+351,"$148,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2, 64m²,2 weeks ago
+352,"$170,000","Chamkarmon, Phnom Penh", 2, 2, 48m²,2 weeks ago
+353,"$330,000"," BKK 1, Chamkarmon, Phnom Penh",N/A,N/A, 68m²,2 weeks ago
+354,"$170,000"," BKK 1, Chamkarmon, Phnom Penh", 1, 1,N/A,2 weeks ago
+355,"$99,999"," Veal Vong, 7 Makara, Phnom Penh", 1, 1, 53m²,2 weeks ago
+356,"$132,110","Properties Dabest, Nirouth, Chbar Ampov, Phnom Penh", 2, 1, 74m²,2 weeks ago
+357,"$114,000","Dabest Properties, Nirouth, Chbar Ampov, Phnom Penh", 1, 1, 65m²,2 weeks ago
+358,"$40,000"," Boeung Kak 1, Toul Kork, Phnom Penh",N/A,N/A,N/A,2 weeks ago
+359,"$160,848"," BKK 1, Chamkarmon, Phnom Penh", 2, 1,N/A,2 weeks ago
+360,"$160,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 90m²,2 weeks ago
+361,"$200,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 3, 110m²,2 weeks ago
+362,"$115,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 85m²,2 weeks ago
+363,"$185,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 2, 120m²,2 weeks ago
+364,"$80,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 1, 1, 51m²,2 weeks ago
+365,"$135,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 95m²,2 weeks ago
+366,"$85,000"," Tonle Bassac, Chamkarmon, Phnom Penh", 1, 1, 50m²,2 weeks ago
+367,"$225,000"," Veal Vong, 7 Makara, Phnom Penh", 2, 2, 103m²,2 weeks ago
+368,"$98,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 1, 3000m²,2 weeks ago
+369,"$270,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2,N/A,2 weeks ago
+370,"$1,318,438","Dabest Properties, Tonle Bassac, Chamkarmon, Phnom Penh", 4, 3, 323m²,2 weeks ago
+371,"$148,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2, 64m²,2 weeks ago
+372,"$170,000","Chamkarmon, Phnom Penh", 2, 2, 48m²,2 weeks ago
+373,"$330,000"," BKK 1, Chamkarmon, Phnom Penh",N/A,N/A, 68m²,2 weeks ago
+374,"$170,000"," BKK 1, Chamkarmon, Phnom Penh", 1, 1,N/A,2 weeks ago
+375,"$99,999"," Veal Vong, 7 Makara, Phnom Penh", 1, 1, 53m²,2 weeks ago
+376,"$132,110","Properties Dabest, Nirouth, Chbar Ampov, Phnom Penh", 2, 1, 74m²,2 weeks ago
+377,"$114,000","Dabest Properties, Nirouth, Chbar Ampov, Phnom Penh", 1, 1, 65m²,2 weeks ago
+378,"$40,000"," Boeung Kak 1, Toul Kork, Phnom Penh",N/A,N/A,N/A,2 weeks ago
+379,"$160,848"," BKK 1, Chamkarmon, Phnom Penh", 2, 1,N/A,2 weeks ago
+380,"$160,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 90m²,2 weeks ago
+381,"$200,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 3, 110m²,2 weeks ago
+382,"$115,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 85m²,2 weeks ago
+383,"$185,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 2, 120m²,2 weeks ago
+384,"$80,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 1, 1, 51m²,2 weeks ago
+385,"$135,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 95m²,2 weeks ago
+386,"$85,000"," Tonle Bassac, Chamkarmon, Phnom Penh", 1, 1, 50m²,2 weeks ago
+387,"$225,000"," Veal Vong, 7 Makara, Phnom Penh", 2, 2, 103m²,2 weeks ago
+388,"$98,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 1, 3000m²,2 weeks ago
+389,"$270,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2,N/A,2 weeks ago
+390,"$1,318,438","Dabest Properties, Tonle Bassac, Chamkarmon, Phnom Penh", 4, 3, 323m²,2 weeks ago
+391,"$148,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2, 64m²,2 weeks ago
+392,"$170,000","Chamkarmon, Phnom Penh", 2, 2, 48m²,2 weeks ago
+393,"$330,000"," BKK 1, Chamkarmon, Phnom Penh",N/A,N/A, 68m²,2 weeks ago
+394,"$170,000"," BKK 1, Chamkarmon, Phnom Penh", 1, 1,N/A,2 weeks ago
+395,"$99,999"," Veal Vong, 7 Makara, Phnom Penh", 1, 1, 53m²,2 weeks ago
+396,"$132,110","Properties Dabest, Nirouth, Chbar Ampov, Phnom Penh", 2, 1, 74m²,2 weeks ago
+397,"$114,000","Dabest Properties, Nirouth, Chbar Ampov, Phnom Penh", 1, 1, 65m²,2 weeks ago
+398,"$40,000"," Boeung Kak 1, Toul Kork, Phnom Penh",N/A,N/A,N/A,2 weeks ago
+399,"$160,848"," BKK 1, Chamkarmon, Phnom Penh", 2, 1,N/A,2 weeks ago
+400,"$160,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 90m²,2 weeks ago
+401,"$200,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 3, 110m²,2 weeks ago
+402,"$115,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 85m²,2 weeks ago
+403,"$185,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 2, 120m²,2 weeks ago
+404,"$80,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 1, 1, 51m²,2 weeks ago
+405,"$135,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 95m²,2 weeks ago
+406,"$85,000"," Tonle Bassac, Chamkarmon, Phnom Penh", 1, 1, 50m²,2 weeks ago
+407,"$225,000"," Veal Vong, 7 Makara, Phnom Penh", 2, 2, 103m²,2 weeks ago
+408,"$98,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 1, 3000m²,2 weeks ago
+409,"$270,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2,N/A,2 weeks ago
+410,"$1,318,438","Dabest Properties, Tonle Bassac, Chamkarmon, Phnom Penh", 4, 3, 323m²,2 weeks ago
+411,"$148,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2, 64m²,2 weeks ago
+412,"$170,000","Chamkarmon, Phnom Penh", 2, 2, 48m²,2 weeks ago
+413,"$330,000"," BKK 1, Chamkarmon, Phnom Penh",N/A,N/A, 68m²,2 weeks ago
+414,"$170,000"," BKK 1, Chamkarmon, Phnom Penh", 1, 1,N/A,2 weeks ago
+415,"$99,999"," Veal Vong, 7 Makara, Phnom Penh", 1, 1, 53m²,2 weeks ago
+416,"$132,110","Properties Dabest, Nirouth, Chbar Ampov, Phnom Penh", 2, 1, 74m²,2 weeks ago
+417,"$114,000","Dabest Properties, Nirouth, Chbar Ampov, Phnom Penh", 1, 1, 65m²,2 weeks ago
+418,"$40,000"," Boeung Kak 1, Toul Kork, Phnom Penh",N/A,N/A,N/A,2 weeks ago
+419,"$160,848"," BKK 1, Chamkarmon, Phnom Penh", 2, 1,N/A,2 weeks ago
+420,"$160,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 90m²,2 weeks ago
+421,"$200,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 3, 110m²,2 weeks ago
+422,"$115,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 85m²,2 weeks ago
+423,"$185,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 2, 120m²,2 weeks ago
+424,"$80,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 1, 1, 51m²,2 weeks ago
+425,"$135,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 95m²,2 weeks ago
+426,"$85,000"," Tonle Bassac, Chamkarmon, Phnom Penh", 1, 1, 50m²,2 weeks ago
+427,"$225,000"," Veal Vong, 7 Makara, Phnom Penh", 2, 2, 103m²,2 weeks ago
+428,"$98,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 1, 3000m²,2 weeks ago
+429,"$270,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2,N/A,2 weeks ago
+430,"$1,318,438","Dabest Properties, Tonle Bassac, Chamkarmon, Phnom Penh", 4, 3, 323m²,2 weeks ago
+431,"$148,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2, 64m²,2 weeks ago
+432,"$170,000","Chamkarmon, Phnom Penh", 2, 2, 48m²,2 weeks ago
+433,"$330,000"," BKK 1, Chamkarmon, Phnom Penh",N/A,N/A, 68m²,2 weeks ago
+434,"$170,000"," BKK 1, Chamkarmon, Phnom Penh", 1, 1,N/A,2 weeks ago
+435,"$99,999"," Veal Vong, 7 Makara, Phnom Penh", 1, 1, 53m²,2 weeks ago
+436,"$132,110","Properties Dabest, Nirouth, Chbar Ampov, Phnom Penh", 2, 1, 74m²,2 weeks ago
+437,"$114,000","Dabest Properties, Nirouth, Chbar Ampov, Phnom Penh", 1, 1, 65m²,2 weeks ago
+438,"$40,000"," Boeung Kak 1, Toul Kork, Phnom Penh",N/A,N/A,N/A,2 weeks ago
+439,"$160,848"," BKK 1, Chamkarmon, Phnom Penh", 2, 1,N/A,2 weeks ago
+440,"$160,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 90m²,2 weeks ago
+441,"$200,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 3, 110m²,2 weeks ago
+442,"$115,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 85m²,2 weeks ago
+443,"$185,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 2, 120m²,2 weeks ago
+444,"$80,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 1, 1, 51m²,2 weeks ago
+445,"$135,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 95m²,2 weeks ago
+446,"$85,000"," Tonle Bassac, Chamkarmon, Phnom Penh", 1, 1, 50m²,2 weeks ago
+447,"$225,000"," Veal Vong, 7 Makara, Phnom Penh", 2, 2, 103m²,2 weeks ago
+448,"$98,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 1, 3000m²,2 weeks ago
+449,"$270,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2,N/A,2 weeks ago
+450,"$1,318,438","Dabest Properties, Tonle Bassac, Chamkarmon, Phnom Penh", 4, 3, 323m²,2 weeks ago
+451,"$148,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2, 64m²,2 weeks ago
+452,"$170,000","Chamkarmon, Phnom Penh", 2, 2, 48m²,2 weeks ago
+453,"$330,000"," BKK 1, Chamkarmon, Phnom Penh",N/A,N/A, 68m²,2 weeks ago
+454,"$170,000"," BKK 1, Chamkarmon, Phnom Penh", 1, 1,N/A,2 weeks ago
+455,"$99,999"," Veal Vong, 7 Makara, Phnom Penh", 1, 1, 53m²,2 weeks ago
+456,"$132,110","Properties Dabest, Nirouth, Chbar Ampov, Phnom Penh", 2, 1, 74m²,2 weeks ago
+457,"$114,000","Dabest Properties, Nirouth, Chbar Ampov, Phnom Penh", 1, 1, 65m²,2 weeks ago
+458,"$40,000"," Boeung Kak 1, Toul Kork, Phnom Penh",N/A,N/A,N/A,2 weeks ago
+459,"$160,848"," BKK 1, Chamkarmon, Phnom Penh", 2, 1,N/A,2 weeks ago
+460,"$160,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 90m²,2 weeks ago
+461,"$200,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 3, 110m²,2 weeks ago
+462,"$115,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 85m²,2 weeks ago
+463,"$185,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 2, 120m²,2 weeks ago
+464,"$80,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 1, 1, 51m²,2 weeks ago
+465,"$135,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 95m²,2 weeks ago
+466,"$85,000"," Tonle Bassac, Chamkarmon, Phnom Penh", 1, 1, 50m²,2 weeks ago
+467,"$225,000"," Veal Vong, 7 Makara, Phnom Penh", 2, 2, 103m²,2 weeks ago
+468,"$98,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 1, 3000m²,2 weeks ago
+469,"$270,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2,N/A,2 weeks ago
+470,"$1,318,438","Dabest Properties, Tonle Bassac, Chamkarmon, Phnom Penh", 4, 3, 323m²,2 weeks ago
+471,"$148,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2, 64m²,2 weeks ago
+472,"$170,000","Chamkarmon, Phnom Penh", 2, 2, 48m²,2 weeks ago
+473,"$330,000"," BKK 1, Chamkarmon, Phnom Penh",N/A,N/A, 68m²,2 weeks ago
+474,"$170,000"," BKK 1, Chamkarmon, Phnom Penh", 1, 1,N/A,2 weeks ago
+475,"$99,999"," Veal Vong, 7 Makara, Phnom Penh", 1, 1, 53m²,2 weeks ago
+476,"$132,110","Properties Dabest, Nirouth, Chbar Ampov, Phnom Penh", 2, 1, 74m²,2 weeks ago
+477,"$114,000","Dabest Properties, Nirouth, Chbar Ampov, Phnom Penh", 1, 1, 65m²,2 weeks ago
+478,"$40,000"," Boeung Kak 1, Toul Kork, Phnom Penh",N/A,N/A,N/A,2 weeks ago
+479,"$160,848"," BKK 1, Chamkarmon, Phnom Penh", 2, 1,N/A,2 weeks ago
+480,"$160,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 90m²,2 weeks ago
+481,"$200,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 3, 110m²,2 weeks ago
+482,"$115,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 85m²,2 weeks ago
+483,"$185,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 2, 120m²,2 weeks ago
+484,"$80,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 1, 1, 51m²,2 weeks ago
+485,"$135,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 95m²,2 weeks ago
+486,"$85,000"," Tonle Bassac, Chamkarmon, Phnom Penh", 1, 1, 50m²,2 weeks ago
+487,"$225,000"," Veal Vong, 7 Makara, Phnom Penh", 2, 2, 103m²,2 weeks ago
+488,"$98,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 1, 3000m²,2 weeks ago
+489,"$270,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2,N/A,2 weeks ago
+490,"$1,318,438","Dabest Properties, Tonle Bassac, Chamkarmon, Phnom Penh", 4, 3, 323m²,2 weeks ago
+491,"$148,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2, 64m²,2 weeks ago
+492,"$170,000","Chamkarmon, Phnom Penh", 2, 2, 48m²,2 weeks ago
+493,"$330,000"," BKK 1, Chamkarmon, Phnom Penh",N/A,N/A, 68m²,2 weeks ago
+494,"$170,000"," BKK 1, Chamkarmon, Phnom Penh", 1, 1,N/A,2 weeks ago
+495,"$99,999"," Veal Vong, 7 Makara, Phnom Penh", 1, 1, 53m²,2 weeks ago
+496,"$132,110","Properties Dabest, Nirouth, Chbar Ampov, Phnom Penh", 2, 1, 74m²,2 weeks ago
+497,"$114,000","Dabest Properties, Nirouth, Chbar Ampov, Phnom Penh", 1, 1, 65m²,2 weeks ago
+498,"$40,000"," Boeung Kak 1, Toul Kork, Phnom Penh",N/A,N/A,N/A,2 weeks ago
+499,"$160,848"," BKK 1, Chamkarmon, Phnom Penh", 2, 1,N/A,2 weeks ago
+500,"$160,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 90m²,2 weeks ago
+501,"$200,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 3, 110m²,2 weeks ago
+502,"$115,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 85m²,2 weeks ago
+503,"$185,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 2, 120m²,2 weeks ago
+504,"$80,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 1, 1, 51m²,2 weeks ago
+505,"$135,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 95m²,2 weeks ago
+506,"$85,000"," Tonle Bassac, Chamkarmon, Phnom Penh", 1, 1, 50m²,2 weeks ago
+507,"$225,000"," Veal Vong, 7 Makara, Phnom Penh", 2, 2, 103m²,2 weeks ago
+508,"$98,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 1, 3000m²,2 weeks ago
+509,"$270,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2,N/A,2 weeks ago
+510,"$1,318,438","Dabest Properties, Tonle Bassac, Chamkarmon, Phnom Penh", 4, 3, 323m²,2 weeks ago
+511,"$148,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2, 64m²,2 weeks ago
+512,"$170,000","Chamkarmon, Phnom Penh", 2, 2, 48m²,2 weeks ago
+513,"$330,000"," BKK 1, Chamkarmon, Phnom Penh",N/A,N/A, 68m²,2 weeks ago
+514,"$170,000"," BKK 1, Chamkarmon, Phnom Penh", 1, 1,N/A,2 weeks ago
+515,"$99,999"," Veal Vong, 7 Makara, Phnom Penh", 1, 1, 53m²,2 weeks ago
+516,"$132,110","Properties Dabest, Nirouth, Chbar Ampov, Phnom Penh", 2, 1, 74m²,2 weeks ago
+517,"$114,000","Dabest Properties, Nirouth, Chbar Ampov, Phnom Penh", 1, 1, 65m²,2 weeks ago
+518,"$40,000"," Boeung Kak 1, Toul Kork, Phnom Penh",N/A,N/A,N/A,2 weeks ago
+519,"$160,848"," BKK 1, Chamkarmon, Phnom Penh", 2, 1,N/A,2 weeks ago
+520,"$160,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 90m²,2 weeks ago
+521,"$200,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 3, 110m²,2 weeks ago
+522,"$115,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 85m²,2 weeks ago
+523,"$185,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 2, 120m²,2 weeks ago
+524,"$80,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 1, 1, 51m²,2 weeks ago
+525,"$135,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 95m²,2 weeks ago
+526,"$85,000"," Tonle Bassac, Chamkarmon, Phnom Penh", 1, 1, 50m²,2 weeks ago
+527,"$225,000"," Veal Vong, 7 Makara, Phnom Penh", 2, 2, 103m²,2 weeks ago
+528,"$98,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 1, 3000m²,2 weeks ago
+529,"$270,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2,N/A,2 weeks ago
+530,"$1,318,438","Dabest Properties, Tonle Bassac, Chamkarmon, Phnom Penh", 4, 3, 323m²,2 weeks ago
+531,"$148,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2, 64m²,2 weeks ago
+532,"$170,000","Chamkarmon, Phnom Penh", 2, 2, 48m²,2 weeks ago
+533,"$330,000"," BKK 1, Chamkarmon, Phnom Penh",N/A,N/A, 68m²,2 weeks ago
+534,"$170,000"," BKK 1, Chamkarmon, Phnom Penh", 1, 1,N/A,2 weeks ago
+535,"$99,999"," Veal Vong, 7 Makara, Phnom Penh", 1, 1, 53m²,2 weeks ago
+536,"$132,110","Properties Dabest, Nirouth, Chbar Ampov, Phnom Penh", 2, 1, 74m²,2 weeks ago
+537,"$114,000","Dabest Properties, Nirouth, Chbar Ampov, Phnom Penh", 1, 1, 65m²,2 weeks ago
+538,"$40,000"," Boeung Kak 1, Toul Kork, Phnom Penh",N/A,N/A,N/A,2 weeks ago
+539,"$160,848"," BKK 1, Chamkarmon, Phnom Penh", 2, 1,N/A,2 weeks ago
+540,"$160,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 90m²,2 weeks ago
+541,"$200,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 3, 110m²,2 weeks ago
+542,"$115,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 85m²,2 weeks ago
+543,"$185,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 2, 120m²,2 weeks ago
+544,"$80,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 1, 1, 51m²,2 weeks ago
+545,"$135,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 95m²,2 weeks ago
+546,"$85,000"," Tonle Bassac, Chamkarmon, Phnom Penh", 1, 1, 50m²,2 weeks ago
+547,"$225,000"," Veal Vong, 7 Makara, Phnom Penh", 2, 2, 103m²,2 weeks ago
+548,"$98,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 1, 3000m²,2 weeks ago
+549,"$270,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2,N/A,2 weeks ago
+550,"$1,318,438","Dabest Properties, Tonle Bassac, Chamkarmon, Phnom Penh", 4, 3, 323m²,2 weeks ago
+551,"$148,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2, 64m²,2 weeks ago
+552,"$170,000","Chamkarmon, Phnom Penh", 2, 2, 48m²,2 weeks ago
+553,"$330,000"," BKK 1, Chamkarmon, Phnom Penh",N/A,N/A, 68m²,2 weeks ago
+554,"$170,000"," BKK 1, Chamkarmon, Phnom Penh", 1, 1,N/A,2 weeks ago
+555,"$99,999"," Veal Vong, 7 Makara, Phnom Penh", 1, 1, 53m²,2 weeks ago
+556,"$132,110","Properties Dabest, Nirouth, Chbar Ampov, Phnom Penh", 2, 1, 74m²,2 weeks ago
+557,"$114,000","Dabest Properties, Nirouth, Chbar Ampov, Phnom Penh", 1, 1, 65m²,2 weeks ago
+558,"$40,000"," Boeung Kak 1, Toul Kork, Phnom Penh",N/A,N/A,N/A,2 weeks ago
+559,"$160,848"," BKK 1, Chamkarmon, Phnom Penh", 2, 1,N/A,2 weeks ago
+560,"$160,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 90m²,2 weeks ago
+561,"$200,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 3, 110m²,2 weeks ago
+562,"$115,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 85m²,2 weeks ago
+563,"$185,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 2, 120m²,2 weeks ago
+564,"$80,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 1, 1, 51m²,2 weeks ago
+565,"$135,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 95m²,2 weeks ago
+566,"$85,000"," Tonle Bassac, Chamkarmon, Phnom Penh", 1, 1, 50m²,2 weeks ago
+567,"$225,000"," Veal Vong, 7 Makara, Phnom Penh", 2, 2, 103m²,2 weeks ago
+568,"$98,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 1, 3000m²,2 weeks ago
+569,"$270,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2,N/A,2 weeks ago
+570,"$1,318,438","Dabest Properties, Tonle Bassac, Chamkarmon, Phnom Penh", 4, 3, 323m²,2 weeks ago
+571,"$148,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2, 64m²,2 weeks ago
+572,"$170,000","Chamkarmon, Phnom Penh", 2, 2, 48m²,2 weeks ago
+573,"$330,000"," BKK 1, Chamkarmon, Phnom Penh",N/A,N/A, 68m²,2 weeks ago
+574,"$170,000"," BKK 1, Chamkarmon, Phnom Penh", 1, 1,N/A,2 weeks ago
+575,"$99,999"," Veal Vong, 7 Makara, Phnom Penh", 1, 1, 53m²,2 weeks ago
+576,"$132,110","Properties Dabest, Nirouth, Chbar Ampov, Phnom Penh", 2, 1, 74m²,2 weeks ago
+577,"$114,000","Dabest Properties, Nirouth, Chbar Ampov, Phnom Penh", 1, 1, 65m²,2 weeks ago
+578,"$40,000"," Boeung Kak 1, Toul Kork, Phnom Penh",N/A,N/A,N/A,2 weeks ago
+579,"$160,848"," BKK 1, Chamkarmon, Phnom Penh", 2, 1,N/A,2 weeks ago
+580,"$160,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 90m²,2 weeks ago
+581,"$200,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 3, 110m²,2 weeks ago
+582,"$115,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 85m²,2 weeks ago
+583,"$185,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 2, 120m²,2 weeks ago
+584,"$80,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 1, 1, 51m²,2 weeks ago
+585,"$135,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 95m²,2 weeks ago
+586,"$85,000"," Tonle Bassac, Chamkarmon, Phnom Penh", 1, 1, 50m²,2 weeks ago
+587,"$225,000"," Veal Vong, 7 Makara, Phnom Penh", 2, 2, 103m²,2 weeks ago
+588,"$98,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 1, 3000m²,2 weeks ago
+589,"$270,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2,N/A,2 weeks ago
+590,"$1,318,438","Dabest Properties, Tonle Bassac, Chamkarmon, Phnom Penh", 4, 3, 323m²,2 weeks ago
+591,"$148,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2, 64m²,2 weeks ago
+592,"$170,000","Chamkarmon, Phnom Penh", 2, 2, 48m²,2 weeks ago
+593,"$330,000"," BKK 1, Chamkarmon, Phnom Penh",N/A,N/A, 68m²,2 weeks ago
+594,"$170,000"," BKK 1, Chamkarmon, Phnom Penh", 1, 1,N/A,2 weeks ago
+595,"$99,999"," Veal Vong, 7 Makara, Phnom Penh", 1, 1, 53m²,2 weeks ago
+596,"$132,110","Properties Dabest, Nirouth, Chbar Ampov, Phnom Penh", 2, 1, 74m²,2 weeks ago
+597,"$114,000","Dabest Properties, Nirouth, Chbar Ampov, Phnom Penh", 1, 1, 65m²,2 weeks ago
+598,"$40,000"," Boeung Kak 1, Toul Kork, Phnom Penh",N/A,N/A,N/A,2 weeks ago
+599,"$160,848"," BKK 1, Chamkarmon, Phnom Penh", 2, 1,N/A,2 weeks ago
+600,"$160,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 90m²,2 weeks ago
+601,"$200,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 3, 110m²,2 weeks ago
+602,"$115,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 85m²,2 weeks ago
+603,"$185,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 2, 120m²,2 weeks ago
+604,"$80,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 1, 1, 51m²,2 weeks ago
+605,"$135,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 95m²,2 weeks ago
+606,"$85,000"," Tonle Bassac, Chamkarmon, Phnom Penh", 1, 1, 50m²,2 weeks ago
+607,"$225,000"," Veal Vong, 7 Makara, Phnom Penh", 2, 2, 103m²,2 weeks ago
+608,"$98,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 1, 3000m²,2 weeks ago
+609,"$270,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2,N/A,2 weeks ago
+610,"$1,318,438","Dabest Properties, Tonle Bassac, Chamkarmon, Phnom Penh", 4, 3, 323m²,2 weeks ago
+611,"$148,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2, 64m²,2 weeks ago
+612,"$170,000","Chamkarmon, Phnom Penh", 2, 2, 48m²,2 weeks ago
+613,"$330,000"," BKK 1, Chamkarmon, Phnom Penh",N/A,N/A, 68m²,2 weeks ago
+614,"$170,000"," BKK 1, Chamkarmon, Phnom Penh", 1, 1,N/A,2 weeks ago
+615,"$99,999"," Veal Vong, 7 Makara, Phnom Penh", 1, 1, 53m²,2 weeks ago
+616,"$132,110","Properties Dabest, Nirouth, Chbar Ampov, Phnom Penh", 2, 1, 74m²,2 weeks ago
+617,"$114,000","Dabest Properties, Nirouth, Chbar Ampov, Phnom Penh", 1, 1, 65m²,2 weeks ago
+618,"$40,000"," Boeung Kak 1, Toul Kork, Phnom Penh",N/A,N/A,N/A,2 weeks ago
+619,"$160,848"," BKK 1, Chamkarmon, Phnom Penh", 2, 1,N/A,2 weeks ago
+620,"$160,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 90m²,2 weeks ago
+621,"$200,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 3, 110m²,2 weeks ago
+622,"$115,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 85m²,2 weeks ago
+623,"$185,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 2, 120m²,2 weeks ago
+624,"$80,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 1, 1, 51m²,2 weeks ago
+625,"$135,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 95m²,2 weeks ago
+626,"$85,000"," Tonle Bassac, Chamkarmon, Phnom Penh", 1, 1, 50m²,2 weeks ago
+627,"$225,000"," Veal Vong, 7 Makara, Phnom Penh", 2, 2, 103m²,2 weeks ago
+628,"$98,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 1, 3000m²,2 weeks ago
+629,"$270,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2,N/A,2 weeks ago
+630,"$1,318,438","Dabest Properties, Tonle Bassac, Chamkarmon, Phnom Penh", 4, 3, 323m²,2 weeks ago
+631,"$148,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2, 64m²,2 weeks ago
+632,"$170,000","Chamkarmon, Phnom Penh", 2, 2, 48m²,2 weeks ago
+633,"$330,000"," BKK 1, Chamkarmon, Phnom Penh",N/A,N/A, 68m²,2 weeks ago
+634,"$170,000"," BKK 1, Chamkarmon, Phnom Penh", 1, 1,N/A,2 weeks ago
+635,"$99,999"," Veal Vong, 7 Makara, Phnom Penh", 1, 1, 53m²,2 weeks ago
+636,"$132,110","Properties Dabest, Nirouth, Chbar Ampov, Phnom Penh", 2, 1, 74m²,2 weeks ago
+637,"$114,000","Dabest Properties, Nirouth, Chbar Ampov, Phnom Penh", 1, 1, 65m²,2 weeks ago
+638,"$40,000"," Boeung Kak 1, Toul Kork, Phnom Penh",N/A,N/A,N/A,2 weeks ago
+639,"$160,848"," BKK 1, Chamkarmon, Phnom Penh", 2, 1,N/A,2 weeks ago
+640,"$160,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 90m²,2 weeks ago
+641,"$200,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 3, 110m²,2 weeks ago
+642,"$115,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 85m²,2 weeks ago
+643,"$185,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 2, 120m²,2 weeks ago
+644,"$80,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 1, 1, 51m²,2 weeks ago
+645,"$135,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 95m²,2 weeks ago
+646,"$85,000"," Tonle Bassac, Chamkarmon, Phnom Penh", 1, 1, 50m²,2 weeks ago
+647,"$225,000"," Veal Vong, 7 Makara, Phnom Penh", 2, 2, 103m²,2 weeks ago
+648,"$98,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 1, 3000m²,2 weeks ago
+649,"$270,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2,N/A,2 weeks ago
+650,"$1,318,438","Dabest Properties, Tonle Bassac, Chamkarmon, Phnom Penh", 4, 3, 323m²,2 weeks ago
+651,"$148,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2, 64m²,2 weeks ago
+652,"$170,000","Chamkarmon, Phnom Penh", 2, 2, 48m²,2 weeks ago
+653,"$330,000"," BKK 1, Chamkarmon, Phnom Penh",N/A,N/A, 68m²,2 weeks ago
+654,"$170,000"," BKK 1, Chamkarmon, Phnom Penh", 1, 1,N/A,2 weeks ago
+655,"$99,999"," Veal Vong, 7 Makara, Phnom Penh", 1, 1, 53m²,2 weeks ago
+656,"$132,110","Properties Dabest, Nirouth, Chbar Ampov, Phnom Penh", 2, 1, 74m²,2 weeks ago
+657,"$114,000","Dabest Properties, Nirouth, Chbar Ampov, Phnom Penh", 1, 1, 65m²,2 weeks ago
+658,"$40,000"," Boeung Kak 1, Toul Kork, Phnom Penh",N/A,N/A,N/A,2 weeks ago
+659,"$160,848"," BKK 1, Chamkarmon, Phnom Penh", 2, 1,N/A,2 weeks ago
+660,"$160,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 90m²,2 weeks ago
+661,"$200,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 3, 110m²,2 weeks ago
+662,"$115,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 85m²,2 weeks ago
+663,"$185,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 2, 120m²,2 weeks ago
+664,"$80,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 1, 1, 51m²,2 weeks ago
+665,"$135,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 95m²,2 weeks ago
+666,"$85,000"," Tonle Bassac, Chamkarmon, Phnom Penh", 1, 1, 50m²,2 weeks ago
+667,"$225,000"," Veal Vong, 7 Makara, Phnom Penh", 2, 2, 103m²,2 weeks ago
+668,"$98,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 1, 3000m²,2 weeks ago
+669,"$270,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2,N/A,2 weeks ago
+670,"$1,318,438","Dabest Properties, Tonle Bassac, Chamkarmon, Phnom Penh", 4, 3, 323m²,2 weeks ago
+671,"$148,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2, 64m²,2 weeks ago
+672,"$170,000","Chamkarmon, Phnom Penh", 2, 2, 48m²,2 weeks ago
+673,"$330,000"," BKK 1, Chamkarmon, Phnom Penh",N/A,N/A, 68m²,2 weeks ago
+674,"$170,000"," BKK 1, Chamkarmon, Phnom Penh", 1, 1,N/A,2 weeks ago
+675,"$99,999"," Veal Vong, 7 Makara, Phnom Penh", 1, 1, 53m²,2 weeks ago
+676,"$132,110","Properties Dabest, Nirouth, Chbar Ampov, Phnom Penh", 2, 1, 74m²,2 weeks ago
+677,"$114,000","Dabest Properties, Nirouth, Chbar Ampov, Phnom Penh", 1, 1, 65m²,2 weeks ago
+678,"$40,000"," Boeung Kak 1, Toul Kork, Phnom Penh",N/A,N/A,N/A,2 weeks ago
+679,"$160,848"," BKK 1, Chamkarmon, Phnom Penh", 2, 1,N/A,2 weeks ago
+680,"$160,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 90m²,2 weeks ago
+681,"$200,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 3, 110m²,2 weeks ago
+682,"$115,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 85m²,2 weeks ago
+683,"$185,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 2, 120m²,2 weeks ago
+684,"$80,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 1, 1, 51m²,2 weeks ago
+685,"$135,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 95m²,2 weeks ago
+686,"$85,000"," Tonle Bassac, Chamkarmon, Phnom Penh", 1, 1, 50m²,2 weeks ago
+687,"$225,000"," Veal Vong, 7 Makara, Phnom Penh", 2, 2, 103m²,2 weeks ago
+688,"$98,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 1, 3000m²,2 weeks ago
+689,"$270,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2,N/A,2 weeks ago
+690,"$1,318,438","Dabest Properties, Tonle Bassac, Chamkarmon, Phnom Penh", 4, 3, 323m²,2 weeks ago
+691,"$148,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2, 64m²,2 weeks ago
+692,"$170,000","Chamkarmon, Phnom Penh", 2, 2, 48m²,2 weeks ago
+693,"$330,000"," BKK 1, Chamkarmon, Phnom Penh",N/A,N/A, 68m²,2 weeks ago
+694,"$170,000"," BKK 1, Chamkarmon, Phnom Penh", 1, 1,N/A,2 weeks ago
+695,"$99,999"," Veal Vong, 7 Makara, Phnom Penh", 1, 1, 53m²,2 weeks ago
+696,"$132,110","Properties Dabest, Nirouth, Chbar Ampov, Phnom Penh", 2, 1, 74m²,2 weeks ago
+697,"$114,000","Dabest Properties, Nirouth, Chbar Ampov, Phnom Penh", 1, 1, 65m²,2 weeks ago
+698,"$40,000"," Boeung Kak 1, Toul Kork, Phnom Penh",N/A,N/A,N/A,2 weeks ago
+699,"$160,848"," BKK 1, Chamkarmon, Phnom Penh", 2, 1,N/A,2 weeks ago
+700,"$160,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 90m²,2 weeks ago
+701,"$200,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 3, 110m²,2 weeks ago
+702,"$115,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 85m²,2 weeks ago
+703,"$185,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 2, 120m²,2 weeks ago
+704,"$80,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 1, 1, 51m²,2 weeks ago
+705,"$135,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 95m²,2 weeks ago
+706,"$85,000"," Tonle Bassac, Chamkarmon, Phnom Penh", 1, 1, 50m²,2 weeks ago
+707,"$225,000"," Veal Vong, 7 Makara, Phnom Penh", 2, 2, 103m²,2 weeks ago
+708,"$98,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 1, 3000m²,2 weeks ago
+709,"$270,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2,N/A,2 weeks ago
+710,"$1,318,438","Dabest Properties, Tonle Bassac, Chamkarmon, Phnom Penh", 4, 3, 323m²,2 weeks ago
+711,"$148,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2, 64m²,2 weeks ago
+712,"$170,000","Chamkarmon, Phnom Penh", 2, 2, 48m²,2 weeks ago
+713,"$330,000"," BKK 1, Chamkarmon, Phnom Penh",N/A,N/A, 68m²,2 weeks ago
+714,"$170,000"," BKK 1, Chamkarmon, Phnom Penh", 1, 1,N/A,2 weeks ago
+715,"$99,999"," Veal Vong, 7 Makara, Phnom Penh", 1, 1, 53m²,2 weeks ago
+716,"$132,110","Properties Dabest, Nirouth, Chbar Ampov, Phnom Penh", 2, 1, 74m²,2 weeks ago
+717,"$114,000","Dabest Properties, Nirouth, Chbar Ampov, Phnom Penh", 1, 1, 65m²,2 weeks ago
+718,"$40,000"," Boeung Kak 1, Toul Kork, Phnom Penh",N/A,N/A,N/A,2 weeks ago
+719,"$160,848"," BKK 1, Chamkarmon, Phnom Penh", 2, 1,N/A,2 weeks ago
+720,"$160,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 90m²,2 weeks ago
+721,"$200,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 3, 110m²,2 weeks ago
+722,"$115,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 85m²,2 weeks ago
+723,"$185,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 2, 120m²,2 weeks ago
+724,"$80,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 1, 1, 51m²,2 weeks ago
+725,"$135,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 95m²,2 weeks ago
+726,"$85,000"," Tonle Bassac, Chamkarmon, Phnom Penh", 1, 1, 50m²,2 weeks ago
+727,"$225,000"," Veal Vong, 7 Makara, Phnom Penh", 2, 2, 103m²,2 weeks ago
+728,"$98,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 1, 3000m²,2 weeks ago
+729,"$270,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2,N/A,2 weeks ago
+730,"$1,318,438","Dabest Properties, Tonle Bassac, Chamkarmon, Phnom Penh", 4, 3, 323m²,2 weeks ago
+731,"$148,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2, 64m²,2 weeks ago
+732,"$170,000","Chamkarmon, Phnom Penh", 2, 2, 48m²,2 weeks ago
+733,"$330,000"," BKK 1, Chamkarmon, Phnom Penh",N/A,N/A, 68m²,2 weeks ago
+734,"$170,000"," BKK 1, Chamkarmon, Phnom Penh", 1, 1,N/A,2 weeks ago
+735,"$99,999"," Veal Vong, 7 Makara, Phnom Penh", 1, 1, 53m²,2 weeks ago
+736,"$132,110","Properties Dabest, Nirouth, Chbar Ampov, Phnom Penh", 2, 1, 74m²,2 weeks ago
+737,"$114,000","Dabest Properties, Nirouth, Chbar Ampov, Phnom Penh", 1, 1, 65m²,2 weeks ago
+738,"$40,000"," Boeung Kak 1, Toul Kork, Phnom Penh",N/A,N/A,N/A,2 weeks ago
+739,"$160,848"," BKK 1, Chamkarmon, Phnom Penh", 2, 1,N/A,2 weeks ago
+740,"$160,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 90m²,2 weeks ago
+741,"$200,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 3, 110m²,2 weeks ago
+742,"$115,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 85m²,2 weeks ago
+743,"$185,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 2, 120m²,2 weeks ago
+744,"$80,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 1, 1, 51m²,2 weeks ago
+745,"$135,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 95m²,2 weeks ago
+746,"$85,000"," Tonle Bassac, Chamkarmon, Phnom Penh", 1, 1, 50m²,2 weeks ago
+747,"$225,000"," Veal Vong, 7 Makara, Phnom Penh", 2, 2, 103m²,2 weeks ago
+748,"$98,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 1, 3000m²,2 weeks ago
+749,"$270,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2,N/A,2 weeks ago
+750,"$1,318,438","Dabest Properties, Tonle Bassac, Chamkarmon, Phnom Penh", 4, 3, 323m²,2 weeks ago
+751,"$148,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2, 64m²,2 weeks ago
+752,"$170,000","Chamkarmon, Phnom Penh", 2, 2, 48m²,2 weeks ago
+753,"$330,000"," BKK 1, Chamkarmon, Phnom Penh",N/A,N/A, 68m²,2 weeks ago
+754,"$170,000"," BKK 1, Chamkarmon, Phnom Penh", 1, 1,N/A,2 weeks ago
+755,"$99,999"," Veal Vong, 7 Makara, Phnom Penh", 1, 1, 53m²,2 weeks ago
+756,"$132,110","Properties Dabest, Nirouth, Chbar Ampov, Phnom Penh", 2, 1, 74m²,2 weeks ago
+757,"$114,000","Dabest Properties, Nirouth, Chbar Ampov, Phnom Penh", 1, 1, 65m²,2 weeks ago
+758,"$40,000"," Boeung Kak 1, Toul Kork, Phnom Penh",N/A,N/A,N/A,2 weeks ago
+759,"$160,848"," BKK 1, Chamkarmon, Phnom Penh", 2, 1,N/A,2 weeks ago
+760,"$160,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 90m²,2 weeks ago
+761,"$200,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 3, 110m²,2 weeks ago
+762,"$115,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 85m²,2 weeks ago
+763,"$185,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 3, 2, 120m²,2 weeks ago
+764,"$80,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 1, 1, 51m²,2 weeks ago
+765,"$135,000"," Chak Angrae Leu, Meanchey, Phnom Penh", 2, 2, 95m²,2 weeks ago
+766,"$85,000"," Tonle Bassac, Chamkarmon, Phnom Penh", 1, 1, 50m²,2 weeks ago
+767,"$225,000"," Veal Vong, 7 Makara, Phnom Penh", 2, 2, 103m²,2 weeks ago
+768,"$98,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 1, 3000m²,2 weeks ago
+769,"$270,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2,N/A,2 weeks ago
+770,"$1,318,438","Dabest Properties, Tonle Bassac, Chamkarmon, Phnom Penh", 4, 3, 323m²,2 weeks ago
+771,"$148,000"," BKK 1, Chamkarmon, Phnom Penh", 2, 2, 64m²,2 weeks ago
+772,"$170,000","Chamkarmon, Phnom Penh", 2, 2, 48m²,2 weeks ago
+773,"$330,000"," BKK 1, Chamkarmon, Phnom Penh",N/A,N/A, 68m²,2 weeks ago
+774,"$170,000"," BKK 1, Chamkarmon, Phnom Penh", 1, 1,N/A,2 weeks ago
+775,"$99,999"," Veal Vong, 7 Makara, Phnom Penh", 1, 1, 53m²,2 weeks ago
+776,"$132,110","Properties Dabest, Nirouth, Chbar Ampov, Phnom Penh", 2, 1, 74m²,2 weeks ago
+777,"$114,000","Dabest Properties, Nirouth, Chbar Ampov, Phnom Penh", 1, 1, 65m²,2 weeks ago
+778,"$40,000"," Boeung Kak 1, Toul Kork, Phnom Penh",N/A,N/A,N/A,2 weeks ago
+779,"$160,848"," BKK 1, Chamkarmon, Phnom Penh", 2, 1,N/A,2 weeks ago

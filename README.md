@@ -33,6 +33,6 @@ To run any of these projects on your local machine, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/web-scraping-projects.git
+   git clone https://github.com/sophalITC/Web-scraping-.git
 
 ### &copy; CHAN Sophal
